@@ -1,0 +1,9 @@
+.header{
+    text-align: center;
+    padding-top: 25%;
+}
+
+header{
+    background-color: coral;
+    min-height: 100%;
+}
